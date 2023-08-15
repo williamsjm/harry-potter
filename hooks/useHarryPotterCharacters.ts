@@ -7,6 +7,11 @@ interface Character {
   name: string;
   image: string;
   house: string;
+  species: string;
+  dateOfBirth: string;
+  wizard: boolean;
+  patronus: string;
+  actor: string;
 }
 
 const useHarryPotterCharacters = () => {

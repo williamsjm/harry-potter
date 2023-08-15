@@ -8,12 +8,26 @@ const resources = {
     translation: {
       Welcome: "Welcome",
       characters: "Characters",
+      house: "Select a house",
+      character_house: "House",
+      species: "Species",
+      dateOfBirth: "Date of birth",
+      wizard: "Wizard",
+      patronus: "Patronus",
+      actor: "Actor",
     },
   },
   es: {
     translation: {
       Welcome: "Bienvenido",
       characters: "Personajes",
+      house: "Seleccione una casa",
+      character_house: "Casa",
+      species: "Especie",
+      dateOfBirth: " Dia de nacimiento",
+      wizard: "Mago",
+      patronus: "Patronus",
+      actor: "Actor",
     },
   },
 };
